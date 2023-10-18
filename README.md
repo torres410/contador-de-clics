@@ -19,7 +19,7 @@ https://torres410.github.io/contador-de-clics/build
 ### Instalación
 
 Clona este repositorio en tu máquina local: 
-`git clone https://github.com/torres410/contador-clics-react.git`
+`git clone https://github.com/torres410/contador-de-clics.git`
 
 Instala las dependencias:
 `npm install`
